@@ -5,7 +5,7 @@
 </div>
 <hr />
 
-## Let's get involved and build an open community to build better products helps people in their day to day life.
+### Let's get involved and build an open community to build better products helps people in their day to day life.
 
  - Read our documentations for more informations.
  - Explore open source projects on Stakkle.
